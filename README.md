@@ -16,7 +16,7 @@ const UserInformation = {
     technologies:{
         fronEnd: ["ReactJS","React-Native","HTML","CSS", "JavaScript"],
         backEnd: ["NodeJS", "Express"],
-        database: ["MongoDB"],
+        database: ["MongoDB"],["SQLServer, Mysql"]
         server: ["MongoDB","Firebase"],
         uiFramework: ["Bulma", "TailwindCSS", "Bootstrap"],
         others:["Photoshop", "Sony Vegas"]
