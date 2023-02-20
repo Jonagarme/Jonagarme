@@ -14,14 +14,14 @@
 const UserInformation = {
     askMeAbout: ["App Native"],
     technologies:{
-        fronEnd: ["ReactJS","React-Native","HTML","CSS", "JavaScript"],
-        backEnd: ["NodeJS", "Express"],
+        fronEnd: ["ReactJS","React-Native","HTML","CSS", "JavaScript", "Flutter"],
+        backEnd: ["NodeJS", "Express", "Golang", "C"],
         database: ["MongoDB"],["SQLServer, Mysql"]
         server: ["MongoDB","Firebase"],
         uiFramework: ["Bulma", "TailwindCSS", "Bootstrap"],
         others:["Photoshop", "Sony Vegas"]
     },
-    architecture: ["React Native"],
+    architecture: ["React Native", "Flutter"],
     interests: ["Music", "Travel", "English", "Spanish"]
 }
 ```
