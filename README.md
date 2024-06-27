@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 🙏, I'm Jonathan Garcia Merino.  
-## App Developer 👨‍💻
+## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-Jonathan-blue)](https://www.facebook.com/Jonagarme20)
 [![](https://img.shields.io/badge/Gmail-garciajonathan268@gmail.com-red)](mailto:garciajonathan268@gmail.com)
@@ -12,13 +12,13 @@
 
 ```javascript
 const UserInformation = {
-    askMeAbout: ["App Native"],
+    askMeAbout: ["Full Stack Developer - C#"],
     technologies:{
         fronEnd: ["ReactJS","React-Native","HTML","CSS", "JavaScript", "Flutter"],
-        backEnd: ["NodeJS", "Express", "Golang", "C"],
+        backEnd: ["NodeJS", "Express", "Golang", "C", ".NET"],
         database: ["MongoDB"],["SQLServer, Mysql"]
         server: ["MongoDB","Firebase"],
-        uiFramework: ["Bulma", "TailwindCSS", "Bootstrap"],
+        uiFramework: ["Bulma", "TailwindCSS", "Bootstrap", "ASPNET ZERO"],
         others:["Photoshop", "Sony Vegas"]
     },
     architecture: ["React Native", "Flutter"],
